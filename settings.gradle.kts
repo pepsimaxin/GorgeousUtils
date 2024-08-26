@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GorgeousUtils"
 include(":app")
- 
+include(":utils")
